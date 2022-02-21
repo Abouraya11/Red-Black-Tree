@@ -2,7 +2,6 @@
 using namespace std;
 
 enum Color {BLACK, RED};
-
 template <typename DataType>
 class RedBlackTree
 {
