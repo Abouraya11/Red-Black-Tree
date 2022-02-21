@@ -7,7 +7,6 @@ template <typename DataType>
 class RedBlackTree
 {
 private:
-    
     class Node
     {
     public:
